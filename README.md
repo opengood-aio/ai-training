@@ -1,6 +1,6 @@
 # AI Training
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cjaehnen/ai-training/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/opengood-aio/ai-training/master/LICENSE)
 
 Source for AI training for AI engineering and data science enablement
 
@@ -11,8 +11,8 @@ Source for AI training for AI engineering and data science enablement
 Create Python virtual environment:
 
 ```bash
-cd ~/workspace/cjaehnen/ai-training/
-python3 -m venv ~/workspace/cjaehnen/ai-training/
+cd ~/workspace/opengood-aio/ai-training/
+python3 -m venv ~/workspace/opengood-aio/ai-training/
 source bin/activate
 ```
 
