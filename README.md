@@ -11,8 +11,8 @@ Source for AI training for AI engineering and data science enablement
 Create Python virtual environment:
 
 ```bash
-cd ~/workspace/opengood-aio/ai-training/
-python3 -m venv ~/workspace/opengood-aio/ai-training/
+cd ~/workspace/opengood-aio/ai-training/.venv
+python3 -m venv ~/workspace/opengood-aio/ai-training/.venv
 source bin/activate
 ```
 
