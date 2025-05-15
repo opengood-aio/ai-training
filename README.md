@@ -13,7 +13,7 @@ Create Python virtual environment:
 ```bash
 cd ~/workspace/opengood-aio/ai-training/.venv
 python3 -m venv ~/workspace/opengood-aio/ai-training/.venv
-source bin/activate
+source .venv/bin/activate
 ```
 
 ## Install Packages
@@ -28,6 +28,5 @@ python3 -m pip install scikit-learn
 ## Create Requirements File
 
 ```bash
-python3 -m pip freeze > requirements.txt
-python3 -m pip install -r requirements.txt
+pip freeze > requirements.txt
 ```
