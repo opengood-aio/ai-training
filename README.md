@@ -20,6 +20,7 @@ source .venv/bin/activate
 
 ```bash
 python3 -m pip install matplotlib
+python3 -m pip install nltk
 python3 -m pip install numpy
 python3 -m pip install opengood.py-ml-plot
 python3 -m pip install pandas
