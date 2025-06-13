@@ -25,6 +25,7 @@ python3 -m pip install numpy
 python3 -m pip install opengood.py-ml-plot
 python3 -m pip install pandas
 python3 -m pip install scikit-learn
+python3 -m pip install statsmodels
 ```
 
 ## Create Requirements File
