@@ -5,4 +5,4 @@ opengood.py-ml-plot~=2.1.0
 pandas~=2.2.3
 scikit-learn~=1.6.1
 statsmodels~=0.14.4
-tensorflow~=2.19.0
+tensorflow>=2.14.0

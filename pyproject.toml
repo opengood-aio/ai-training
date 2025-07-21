@@ -9,7 +9,7 @@ description = "Source for AI training for AI engineering and data science enable
 authors = [
     { name = "OpenGood", email = "ai@opengood.ai" }
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
