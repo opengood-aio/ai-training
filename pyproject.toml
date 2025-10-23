@@ -19,6 +19,7 @@ readme = "README.md"
 license = { file = "LICENSE" }
 
 dependencies = [
+    "ipywidgets >= 8.1.7",
     "matplotlib >= 3.10.6",
     "nltk >= 3.9.1",
     "numpy >= 2.3.3",
@@ -28,6 +29,9 @@ dependencies = [
     "scikit-learn >= 1.7.2",
     "statsmodels >= 0.14.4",
     "tensorflow >= 2.20.0",
+    "tf-keras >= 2.20.1",
+    "torch >= 1.0.2",
+    "transformers >= 4.56.2",
     "xgboost >= 3.0.5",
 ]
 
